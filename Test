@@ -10,3 +10,5 @@ test = 10
 amount = 20
 total = test + amount
 print(total)
+
+print("Hello World of Strivers!!!!")
