@@ -12,3 +12,6 @@ total = test + amount
 print(total)
 
 print("Hello World of Strivers!!!!")
+
+import numpy as np
+np.a
